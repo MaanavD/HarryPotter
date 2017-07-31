@@ -1,0 +1,49 @@
+ else if (x == 2 && y == 1)
+            b = piece;
+        else if (x == 3 && y == 1)
+            c = piece;
+        else if (x == 4 && y == 1)
+            d = piece;
+        else if (x == 5 && y == 1)
+            e = piece;
+        else if (x == 1 && y == 2)
+            f = piece;
+        else if (x == 2 && y == 2)
+            g = piece;
+        else if (x == 3 && y == 2)
+            h = piece;
+        else if (x == 4 && y == 2)
+            i = piece;
+        else if (x == 5 && y == 2)
+            j = piece;
+        else if (x == 1 && y == 3)
+            k = piece;
+        else if (x == 2 && y == 3)
+            l = piece;
+        else if (x == 3 && y == 3)
+            m = piece;
+        else if (x == 4 && y == 3)
+            n = piece;
+        else if (x == 5 && y == 3)
+            o = piece;
+        else if (x == 1 && y == 4)
+            p = piece;
+        else if (x == 2 && y == 4)
+            q = piece;
+        else if (x == 3 && y == 4)
+            r = piece;
+        else if (x == 4 && y == 4)
+            s = piece;
+        else if (x == 5 && y == 4)
+            t = piece;
+        else if (x == 1 && y == 5)
+            u = piece;
+        else if (x == 2 && y == 5)
+            v = piece;
+        else if (x == 3 && y == 5)
+            w = piece;
+        else if (x == 4 && y == 5)
+            x = piece;
+        else if (x == 5 && y == 5)
+            y = piece;
+        if (piece == 2)
